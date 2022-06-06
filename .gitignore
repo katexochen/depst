@@ -17,3 +17,7 @@
 # Go workspace file
 go.work
 go.work.sum
+
+# Perfomance profiling data
+*.prof
+*.bench
